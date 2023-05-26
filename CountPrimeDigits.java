@@ -1,4 +1,4 @@
-// Write a java program to count how many digits are prime numbers in a given number.
+// Write a java program to count how many digits are prime numbers in a given number
 
 import java.util.Scanner;
 public class CountPrimeDigits {
